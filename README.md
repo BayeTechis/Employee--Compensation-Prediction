@@ -20,7 +20,7 @@ Column definations:
 - Job Code Jobs are defined by the Human Resources classification unit. Examples include gardeners, police officers, and accountants.
 - Job Jobs are defined by the Human Resources classification unit. Examples include gardeners, police officers, and accountants.
 - Employee Identifier Each distinct number in the “Employee Identifier” column represents one employee. These identifying numbers are not meaningful but rather are randomly assigned for the purpose of building this dataset. The column does not appear on the Employee Compensation report hosted on openbook.sfgov.org, but that report does show one row for each employee. Employee ID has been included here to allow users to reconstruct the original report. Note that each employee’s identifier will change each time this dataset is updated, so comparisons by employee across multiple versions of the dataset are not possible.
-- 
+
 - Salaries Normal salaries paid to permanent or temporary City employees: 
 
        Overtime Amounts paid to City employees working in excess of 40 hours per week.
@@ -35,6 +35,6 @@ Column definations:
 
        Other Benefits Mandatory benefits paid on behalf of employees, such as Social Security (FICA and Medicare) contributions, unemployment insurance premiums, and minor discretionary benefits not included in the above categories.
 
-Total Benefits The sum of all benefits paid to City employees.
+- Total Benefits The sum of all benefits paid to City employees.
 
-Total Compensation The sum of all salaries and benefits paid to City employees.
+- Total Compensation The sum of all salaries and benefits paid to City employees.
