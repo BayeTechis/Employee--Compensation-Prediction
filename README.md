@@ -2,6 +2,9 @@
 
 Data: employee-compensation.csv
 
+The data can be downloaded using the following link:
+https://drive.google.com/drive/folders/1TfxasS9WxqAYzq2_G--QjIvNIb-nIenb?usp=sharing
+
 Data Description: 
 
 The San Francisco Controller's Office maintains a database of the salary and benefits paid to City employees since fiscal year 2013. This data is summarized and presented on the Employee Compensation and is also
